@@ -42,7 +42,7 @@ olist_ecommerce/
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 ### 1. Revenue Concentration (Pareto Pattern)
 
